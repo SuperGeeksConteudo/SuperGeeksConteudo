@@ -4,7 +4,7 @@
 ![imagem2](https://img.shields.io/badge/Conteúdos-5.000+-f02929?style=social)
 ![imagem3](https://img.shields.io/badge/Unidades-70+-f02929?style=social)
 
-Sejam todos bem vindos a conta oficial da SuperGeeks para o compartilhamento de projetos gerais e públicos!
+Perfil de repositório de projeto da SuperGeeks.
 
 ## 📕 A SuperGeeks
 
