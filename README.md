@@ -10,6 +10,14 @@ Perfil de repositório de projeto da SuperGeeks.
 
 Somos a Primera Escola de Programação, Robótica, Tecnologia e Inovação do Brasil com foco em crianças, adolescentes e jovens. Com uma metodologia própria e inovadora, a SuperGeeks ensina jovens, a partir dos 5 anos, a criarem seus próprios games, aplicativos, robôs e sistemas, com uma base no empreendedorismo e na língua inglesa.
 
+## 🕹 Agendar Aula GRÁTIS
+
+Matrículas abertas para 2022
+
+Ligue agora e agende uma aula demonstrativa grátis!
+
+[Agendar!](https://supergeeks.com.br/)
+
 ## 🧰 Seu aprendizado
 
 Aprender Programação, Robótica, Tecnologia e Ciência da Computação é um meio para que os alunos desenvolvam uma série de competências que serão importantes e totalmente necessárias para o futuro em qualquer área que desejem seguir.
@@ -47,6 +55,12 @@ function programandoMeuFuturo(estudarNaSuperGeeks) {
 }
 programandoMeuFuturo(true);
 ```
+
+## ✂️ Trabalhe Conosco
+
+Preencha o formulário abaixo e nossa equipe irá entrar em contato. Caso deseje se candidatar para mais de uma unidade, preencha mais de uma vez, escolhendo o Estado > Cidade > Unidade de preferência.
+
+[Formulário](https://b24-339ooj.bitrix24.site/crm_form9/)
 
 ## 📞 Contato
 
