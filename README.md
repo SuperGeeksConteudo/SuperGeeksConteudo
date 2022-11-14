@@ -18,49 +18,6 @@ Ligue agora e agende uma aula demonstrativa grátis!
 
 [Agendar!](https://supergeeks.com.br/)
 
-## 🧰 Seu aprendizado
-
-Aprender Programação, Robótica, Tecnologia e Ciência da Computação é um meio para que os alunos desenvolvam uma série de competências que serão importantes e totalmente necessárias para o futuro em qualquer área que desejem seguir.
-
-* Trabalho em Equipe
-* Resolução de Problemas
-* Física e Matemática
-* Língua Inglesa
-* Raciocínio Lógico
-* Domínio das Tecnologias
-
-## 🎈 Programando
-
-```Javascript
-function programandoMeuFuturo(estudarNaSuperGeeks) {
-  if (estudarNaSuperGeeks) {
-    var objetivos = []
-    objetivos.push("Aprender a Programar com a SuperGeeks");
-    objetivos.push("Fazer amigos");
-    objetivos.push("Criar projetos TOP");
-    objetivos.push("Terminar os Estudos");
-    objetivos.push("Ter uma profissão antes de me formar");
-    objetivos.push("Me formar na faculdade");
-    objetivos.push("Mudar o mundo com meus projetos");
-    objetivos.push("SER FELIZ! =D");
-    var txt = "Meus objetivos\n\n";
-    for (let index = 0; index < objetivos.length; index++) {
-      txt = txt + " " + objetivos[index] + " \n";
-    }
-    alert(txt)
-  }
-  else {
-    alert("Matricule-se na SuperGeeks");
-  }
-}
-programandoMeuFuturo(true);
-```
-
-## ✂️ Trabalhe Conosco
-
-Preencha o formulário abaixo e nossa equipe irá entrar em contato. Caso deseje se candidatar para mais de uma unidade, preencha mais de uma vez, escolhendo o Estado > Cidade > Unidade de preferência.
-
-[Formulário](https://b24-339ooj.bitrix24.site/crm_form9/)
 
 ## 📞 Contato
 
