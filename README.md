@@ -21,8 +21,5 @@ Ligue agora e agende uma aula demonstrativa grátis!
 
 ## 📞 Contato
 
-* [(11) 3181-8777](http://1131818777) no Telefone
 * [(11) 3181-8777](https://api.whatsapp.com/send?phone=551131818777) no WhatsApp
-* [SuperGeeks.com.br](https://supergeeks.com.br/) acessando o site
-* [@SuperGeeksBrasil](https://www.instagram.com/supergeeksbrasil/?hl=pt) no Instagram
 
